@@ -3,6 +3,7 @@
 * [Features](#fitur)
 * [Requireement](#requirement)
 * [How to run](#cara-menjalankan-program)
+* [Author] (#penulis)
 
 
 ## Description
@@ -32,5 +33,7 @@ WELCOME TO 24 GAME
 ## How to run
 1. Install install all requirements library
 2. Clone this repository
+3. Click file 24game.exe in "bin" folder twice and start the program
 
-
+## Author
+Kartini Copa - 13521026
