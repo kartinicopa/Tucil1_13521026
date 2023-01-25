@@ -3,7 +3,7 @@
 * [Features](#fitur)
 * [Requireement](#requirement)
 * [How to run](#cara-menjalankan-program)
-* [Author] (#penulis)
+* [Author](#penulis)
 
 
 ## Description
