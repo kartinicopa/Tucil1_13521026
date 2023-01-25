@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Description](#deskripsi-umum)
 * [Features](#fitur)
-* [Requirement] (#requirement)
+* [Requireement](#requirement)
 * [How to run](#cara-menjalankan-program)
 
 
