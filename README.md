@@ -33,7 +33,10 @@ WELCOME TO 24 GAME
 ## How to run
 1. Install install all requirements library
 2. Clone this repository
-3. Click file 24game.exe in "bin" folder twice and start the program
+3. Open cmd in windows or terminal in Linux
+4. Change directory to cloned repository location
+5. Type g++ -o bin/24Game.exe src/24Game.cpp
+6. Run bin/Main.exe file
 
 ## Author
 Kartini Copa - 13521026
